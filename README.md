@@ -3,7 +3,7 @@ This website was recreated from a PDF image of an existing site that's no longer
 
 ![screenshot of Yelp site](yelpshot.png)
 
-Demo-site: https://charlesdefarias.github.io/JWLI/
+Demo-site: https://charlesdefarias.github.io/Yelp/
 
 ## How It's Made:
 
